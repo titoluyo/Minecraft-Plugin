@@ -1,0 +1,12 @@
+name: Tituux
+version: 0.0.5 # '${project.version}'
+main: tituux.core.Main
+api-version: 1.18
+authors: [ titoluyo ]
+description: Plugin de Tituux
+commands:
+  heal:
+    description: Comando para curarse
+    usage: /<command>
+    aliases:
+      - curar
