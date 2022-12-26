@@ -1,5 +1,5 @@
 name: Tituux
-version: 0.0.5 # '${project.version}'
+version: 0.0.6 # '${project.version}'
 main: tituux.core.Main
 api-version: 1.18
 authors: [ titoluyo ]
